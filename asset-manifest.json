@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aermkv.github.io/morphotest/static/css/main.013e8564.css",
+    "main.js": "/aermkv.github.io/morphotest/static/js/main.693a05fd.js",
+    "static/media/ExpoBoothMockup.png": "/aermkv.github.io/morphotest/static/media/ExpoBoothMockup.39017afac308926f76b9.png",
+    "static/media/lentPhoneMockup1.png": "/aermkv.github.io/morphotest/static/media/lentPhoneMockup1.935e624ed260b85e1897.png",
+    "static/media/TwitterMockup.mp4": "/aermkv.github.io/morphotest/static/media/TwitterMockup.d0378437623cd3f2ed1d.mp4",
+    "static/media/Comp.mp4": "/aermkv.github.io/morphotest/static/media/Comp.85cfbca1170c349fae0b.mp4",
+    "static/media/lentPhoneMockup2.png": "/aermkv.github.io/morphotest/static/media/lentPhoneMockup2.62db3090d77563833828.png",
+    "static/media/ExpoBoothFlat.png": "/aermkv.github.io/morphotest/static/media/ExpoBoothFlat.e779976a5c700acff114.png",
+    "static/media/Comp2.mp4": "/aermkv.github.io/morphotest/static/media/Comp2.4008d24ee7ffb62b9419.mp4",
+    "static/media/TechGraph1.png": "/aermkv.github.io/morphotest/static/media/TechGraph1.1baae61ba4a2eaa83a15.png",
+    "static/media/TechGraph2.png": "/aermkv.github.io/morphotest/static/media/TechGraph2.b8459b52f759262a4664.png",
+    "static/media/TwitterStatic.png": "/aermkv.github.io/morphotest/static/media/TwitterStatic.5dd8d921045d53e8c153.png",
+    "static/media/LogBuckets.png": "/aermkv.github.io/morphotest/static/media/LogBuckets.947b70fcc84e6f056590.png",
+    "static/media/TwitterPlan.png": "/aermkv.github.io/morphotest/static/media/TwitterPlan.8527975cbfe10e4328d1.png",
+    "static/media/GraphLayout.png": "/aermkv.github.io/morphotest/static/media/GraphLayout.cc91f0217c0e59f3f359.png",
+    "static/media/ExpoBoothSketch.png": "/aermkv.github.io/morphotest/static/media/ExpoBoothSketch.93635efa49a68a8efa97.png",
+    "static/media/NewIcons.png": "/aermkv.github.io/morphotest/static/media/NewIcons.3da68a683310102b5c16.png",
+    "static/media/DVSketch1.png": "/aermkv.github.io/morphotest/static/media/DVSketch1.12335f574bd2ec77d69b.png",
+    "static/media/DVSketch2.png": "/aermkv.github.io/morphotest/static/media/DVSketch2.27416e0a319453a6ed0d.png",
+    "index.html": "/aermkv.github.io/morphotest/index.html",
+    "main.013e8564.css.map": "/aermkv.github.io/morphotest/static/css/main.013e8564.css.map",
+    "main.693a05fd.js.map": "/aermkv.github.io/morphotest/static/js/main.693a05fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013e8564.css",
+    "static/js/main.693a05fd.js"
+  ]
+}
